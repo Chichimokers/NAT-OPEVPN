@@ -2,7 +2,13 @@
 
 ## Instalacion
 
-Clona el repositorio y sigue las instrucciones especificas del proyecto.
+```bash
+git clone https://github.com/Chichimokers/NAT-OPEVPN.git
+cd NAT-OPEVPN
+pip install -r requirements.txt  # o npm install
+python run.py  # o npm run dev
+```
 
 ---
-(c) 2026 Chichimokers -- https://github.com/Chichimokers/NAT-OPEVPN
+
+(c) 2026 Chichimokers - Proyecto Privado
